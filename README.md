@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS services, Docker, PWA**
 
-- 💬 Ask me about **Electronjs, Nodejs, Graphql, Prisma**
+- 💬 Ask me about **Electronjs, Nodejs, Graphql, Prisma, Angular, MongoDB**
 
 - 📫 How to reach me **harsh.make1998@gmail.com**
 
