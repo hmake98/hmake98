@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Primsa and Graphql server**
 
-- 🌱 I’m currently learning **AWS services, Docker, PWA**
+- 🌱 I’m currently learning **AWS services, Docker, PWA, PosgresSQL**
 
-- 💬 Ask me about **Electronjs, Nodejs, Graphql, Prisma, Angular, MongoDB**
+- 💬 Ask me about **Electronjs, Nodejs, ExpressJs, Graphql, Prisma, Angular, MongoDB**
 
 - 📫 How to reach me **harsh.make1998@gmail.com**
 
