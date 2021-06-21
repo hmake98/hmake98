@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmake98&label=Profile%20views&color=0e75b6&style=flat" alt="hmake98" /> </p>
 
-- 🔭 I’m currently working on **Primsa and Graphql server**
+- 🔭 I’m currently working on **Serverless**
 
-- 🌱 I’m currently learning **AWS services, Docker, PWA, PosgresSQL**
+- 🌱 I’m currently learning **Serverless, AWS services**
 
-- 💬 Ask me about **Electronjs, Nodejs, ExpressJs, Graphql, Prisma, Angular, MongoDB**
+- 💬 Ask me about **Electronjs, Nodejs, ExpressJs, Graphql, Prisma, Angular, MongoDB, PostgreSQL**
 
 - 📫 How to reach me **harsh.make1998@gmail.com**
 
