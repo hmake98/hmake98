@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmake98&label=Profile%20views&color=0e75b6&style=flat" alt="hmake98" /> </p>
 
-- 🔭 I’m currently working on **NestJs**
+- 🔭 I’m currently working on **NestJS**
 
 - 🌱 I’m currently learning **Microservices, AWS services**
 
-- 💬 Ask me about **Electronjs, Nodejs, ExpressJs, Graphql, Prisma, Angular, MongoDB, PostgreSQL**
+- 💬 Ask me about **ElectronJS, Nodejs, Express, GraphQL-Apollo, Prisma, Angular, MongoDB, PostgreSQL, Ionic Capacitor, NestJS**
 
 - 📫 How to reach me **harsh.make1998@gmail.com**
 
