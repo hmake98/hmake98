@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmake98&label=Profile%20views&color=0e75b6&style=flat" alt="hmake98" /> </p>
 
-- 🔭 I’m currently working on **React, NestJS Microservices**
+- 🔭 I’m currently working on **Kubernetes, Microservices**
 
 - 🌱 I’m currently learning **AWS services &  ELK stack**
 
