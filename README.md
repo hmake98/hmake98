@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS services &  ELK stack**
 
-- 💬 Ask me about **ElectronJS, Nodejs, Express, GraphQL-Apollo, Prisma, Angular, MongoDB, PostgreSQL, Ionic Capacitor, NestJS**
+- 💬 Ask me about **ElectronJS, Nodejs, Express, GraphQL-Apollo, Prisma, Angular, MongoDB, PostgreSQL, NestJS**
 
 - 📫 How to reach me **harsh.make1998@gmail.com**
 
