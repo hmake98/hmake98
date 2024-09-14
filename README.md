@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **Kubernetes** and **Microservices**
-- 🌱 Learning **AWS services** and **ELK stack**
+- 🌱 Learning **AWS services** and **Web3**
 - 💼 Expertise in **ElectronJS, Node.js, Express, GraphQL-Apollo, Prisma, Angular, MongoDB, PostgreSQL, NestJS**
 - 📫 Reach me at **harsh.make1998@gmail.com**
 
