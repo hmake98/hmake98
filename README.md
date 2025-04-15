@@ -10,7 +10,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hmake98&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hmake98" />
-  <a href="https://wakatime.com/@hmake98"><img src="https://wakatime.com/badge/user/hmake98.svg?style=for-the-badge" alt="Total time coded" /></a>
 </div>
 
 <div align="center">
@@ -70,10 +69,6 @@ const harsh = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hmake98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="hmake98's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmake98&theme=tokyonight&hide_border=true" alt="hmake98's GitHub Streak" />
 </div>
 
 <div align="center">
