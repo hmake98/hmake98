@@ -86,15 +86,6 @@ const harsh = {
   <img src="https://github-profile-trophy.vercel.app/?username=hmake98&theme=nord&column=7&margin-w=15&margin-h=15" alt="hmake98's GitHub Trophies" />
 </div>
 
-## 📌 Pinned Repositories
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=hmake98&repo=nestjs-graphql-prisma&theme=tokyonight&hide_border=true)](https://github.com/hmake98/nestjs-graphql-prisma)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=hmake98&repo=nestjs-starter&theme=tokyonight&hide_border=true)](https://github.com/hmake98/nestjs-starter)
-
-</div>
-
 ## 🔗 Connect with me
 
 <div align="center">
@@ -117,10 +108,6 @@ const harsh = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
-</div>
 
 <div align="center">
   <h3>⚡ Happy coding! ⚡</h3>
