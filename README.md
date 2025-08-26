@@ -67,12 +67,6 @@ const harsh = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmake98&layout=compact&theme=tokyonight&hide_border=true" alt="hmake98's Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hmake98&theme=nord&column=7&margin-w=15&margin-h=15" alt="hmake98's GitHub Trophies" />
-</div>
-
 ## 🔗 Connect with me
 
 <div align="center">
