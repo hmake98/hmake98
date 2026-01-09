@@ -1,95 +1,117 @@
-# <div align="center">👋 Hi there, I'm Harsh!</div>
+# <div align="center">👋 Hi, I'm Harsh</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hmake98&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hmake98" />
+  <img src="https://komarev.com/ghpvc/?username=hmake98&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <h3>A passionate Full Stack Developer from India 🇮🇳</h3>
-</div>
-
-## 👨‍💻 About Me
-
-```javascript
-const harsh = {
-  currentFocus: "Kubernetes and Microservices Architecture",
-  learning: ["AWS Services", "Web3", "Cloud Native Development"],
-  expertise: [
-    "ElectronJS", "Node.js", "Express", "GraphQL-Apollo", 
-    "Prisma", "Angular", "MongoDB", "PostgreSQL", "NestJS"
-  ],
-  contact: "harsh.make1998@gmail.com",
-  funFact: "I debug with console logs and refuse to admit it"
-};
-```
-
-## 🔥 Tech Stack
-
-<div align="center">
-  
-#### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![ElectronJS](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-#### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
-
-#### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-#### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmake98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="hmake98's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmake98&layout=compact&theme=tokyonight&hide_border=true" alt="hmake98's Top Languages" />
-</div>
-
-## 🔗 Connect with me
-
-<div align="center">
-  <a href="https://linkedin.com/in/hmake98">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/hmake98">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://fb.com/makwana.harsh.399">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://discord.com/users/hmake98">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
-
-<div align="center">
-  <h3>📩 Email me at: harsh.make1998@gmail.com</h3>
+  <h3>Backend & Infrastructure Engineer • Cloud-Native Systems • Streaming & Microservices</h3>
+  <p>Building production-grade systems that scale, recover, and automate themselves.</p>
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+```ts
+const harsh = {
+  experience: "6+ years",
+  focus: [
+    "Backend Architecture",
+    "Microservices & Event-Driven Systems",
+    "Cloud Infrastructure (AWS)",
+    "Real-time Streaming & Orchestration"
+  ],
+  currentlyWorkingOn: [
+    "On-demand game streaming infrastructure",
+    "gRPC & Temporal-based systems",
+    "Production-ready NestJS tooling"
+  ],
+  strengths: [
+    "System design",
+    "Failure recovery",
+    "Performance optimization",
+    "Cost-efficient cloud architecture"
+  ],
+  contact: "harsh.make1998@gmail.com"
+};
+```
+
+I specialize in **designing, building, and operating complex backend systems** — from **microservices and permission platforms** to **GPU-backed real-time streaming infrastructure**.
+
+I care deeply about:
+
+* Reliability over hype
+* Clean abstractions
+* Automation over manual ops
+* Observability and recovery by design
+* **AI-augmented programming for speed, accuracy, and scale**
+
+I am fully adept at **AI-augmented development workflows**, leveraging modern AI tools to:
+
+* Accelerate system design and implementation
+* Validate architectural decisions
+* Refactor complex codebases safely
+* Explore multiple solution paths efficiently
+
+AI is treated as a **force multiplier**, not a replacement — enabling higher-quality engineering with faster iteration cycles.
+
+---
+
+## 🧠 What I Build
+
+* High-availability backend systems
+* Event-driven & message-based architectures
+* On-demand cloud infrastructure (auto-provision & teardown)
+* Real-time audio/video streaming pipelines
+* Developer tooling & internal frameworks
+* Scalable permission and delegation platforms
+
+---
+
+## 🔥 Core Tech Stack
+
+### Backend & APIs
+
+* Node.js, NestJS, Express
+* GraphQL, gRPC
+* Prisma ORM
+
+### Databases & Messaging
+
+* PostgreSQL, MongoDB
+* Redis
+* RabbitMQ
+
+### Cloud, DevOps & Streaming
+
+* AWS (EC2, S3, IVS, IAM)
+* Docker, Kubernetes
+* GitHub Actions
+* FFmpeg, WebRTC
+
+### Desktop & Specialized
+
+* Electron
+* WebAssembly
+
+---
+
+## 📈 GitHub Stats
+
+*(Auto-generated by GitHub Readme Stats)*
+
+---
+
+## 🔗 Connect
+
+* LinkedIn: [https://linkedin.com/in/hmake98](https://linkedin.com/in/hmake98)
+* Instagram: [https://instagram.com/hmake98](https://instagram.com/hmake98)
+* Discord: [https://discord.com/users/hmake98](https://discord.com/users/hmake98)
+* Email: [harsh.make1998@gmail.com](mailto:harsh.make1998@gmail.com)
+
+---
+
 <div align="center">
-  <h3>⚡ Happy coding! ⚡</h3>
+  <h3>⚡ Build systems that survive real traffic ⚡</h3>
 </div>
