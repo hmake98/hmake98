@@ -76,6 +76,7 @@ AI is treated as a **force multiplier**, not a replacement — enabling higher-q
 * Node.js, NestJS, Express
 * GraphQL, gRPC
 * Prisma ORM
+* Temporal
 
 ### Databases & Messaging
 
@@ -89,11 +90,6 @@ AI is treated as a **force multiplier**, not a replacement — enabling higher-q
 * Docker, Kubernetes
 * GitHub Actions
 * FFmpeg, WebRTC
-
-### Desktop & Specialized
-
-* Electron
-* WebAssembly
 
 ---
 
