@@ -85,7 +85,7 @@ AI is treated as a **force multiplier**, not a replacement — enabling higher-q
 
 ### Cloud, DevOps & Streaming
 
-* AWS (EC2, S3, IVS, IAM)
+* AWS
 * Docker, Kubernetes
 * GitHub Actions
 * FFmpeg, WebRTC
